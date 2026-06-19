@@ -1,0 +1,17 @@
+# Archivos compilados Java
+*.class
+
+# Carpetas de compilación
+bin/
+build/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
