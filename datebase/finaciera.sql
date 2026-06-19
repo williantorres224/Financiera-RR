@@ -1,3 +1,7 @@
+-- Financiera R&R
+-- Script de creación de base de datos
+-- Autor: Willian Torres
+
 CREATE DATABASE IF NOT EXISTS financiera;
 
 USE financiera;

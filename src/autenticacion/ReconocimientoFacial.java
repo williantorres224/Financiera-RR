@@ -2,8 +2,8 @@ package autenticacion;
 
 public class ReconocimientoFacial {
 
-    public boolean vereficarReconocimientoFacial(){
-        System.out.println("vereficación de rostro..."); 
+        public boolean verificarReconocimientoFacial(){
+            System.out.println("verificación de rostro..."); 
 
         return true;
     }
